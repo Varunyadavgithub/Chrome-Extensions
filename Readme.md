@@ -1,4 +1,3 @@
-````markdown
 # **Chrome-Extensions** 🌐✨
 
 Welcome to the **Chrome-Extensions** repository! This repository contains a collection of Chrome extensions that I am building and experimenting with. It serves as a showcase for various extensions aimed at improving the browsing experience with added functionality. 🚀
@@ -21,7 +20,6 @@ To use any extension in this repository:
    ```bash
    git clone https://github.com/Varunyadavgithub/Chrome-Extensions.git
    ```
-````
 
 2. Navigate to the folder of the specific extension you want to use.
 
@@ -45,7 +43,3 @@ This repository is open-source and available under the [MIT License](LICENSE). F
 ---
 
 Happy coding! 😊👨‍💻
-
-```
-
-```
